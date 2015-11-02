@@ -1,0 +1,31 @@
+@font - face {
+  font-family : 'BodoniXT';
+  src : url('BodoniXT.ttf');
+  }
+
+@font - face {
+
+  font-family : 'Daydreamer';
+  src : url('Daydreamer - copie.tff');
+  }
+
+section {
+  padding: 5px 20px;
+  margin: auto;
+  width: 800px;
+  height: auto;
+  background-color: white
+  }
+
+  h1  {
+    text-align: center;
+    font-size: 32px;
+    font-family : 'Daydreamer';
+    text-align : center;
+  }
+
+  p{
+     font-size: 22px;
+     font-family : 'Daydreamer';
+     text-align : center;
+     }
