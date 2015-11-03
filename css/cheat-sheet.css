@@ -1,13 +1,24 @@
+/* Typo */
+
 @font - face {
   font-family : 'BodoniXT';
   src : url('BodoniXT.ttf');
   }
-
 @font - face {
-
   font-family : 'Daydreamer';
   src : url('Daydreamer - copie.tff');
   }
+
+  /* Header */
+
+    h1  {
+      text-align: center;
+      font-size: 32px;
+      font-family : 'Daydreamer';
+      text-align : center;
+    }
+
+  /* Section */
 
 section {
   padding: 5px 20px;
@@ -16,15 +27,7 @@ section {
   height: auto;
   background-color: white
   }
-
-  h1  {
-    text-align: center;
-    font-size: 32px;
-    font-family : 'Daydreamer';
-    text-align : center;
-  }
-
-  p{
+p{
      font-size: 22px;
      font-family : 'Daydreamer';
      text-align : center;
