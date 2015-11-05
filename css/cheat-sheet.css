@@ -32,3 +32,8 @@ p{
      font-family : 'Daydreamer';
      text-align : center;
      }
+
+   /* pictures */
+     img {
+        width: 90%;
+      }
