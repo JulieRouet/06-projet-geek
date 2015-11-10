@@ -1,0 +1,61 @@
+@media screen {
+@font - face {
+   font-family : 'BodoniXT';
+   src : url('BodoniXT.ttf');
+   }
+
+@font - face {
+  font-family : 'Daydreamer';
+  src : url('Daydreamer - copie.tff');
+ }
+
+
+/* Header */
+h1  {
+  color: #ff7cf4;
+  text-align: center;
+  font-size: 3.000em;
+  font-family : "BodoniXT";
+}
+
+
+
+/* balises H */
+
+h3 {
+  font-size: 1.2em;
+  font-family : "BodonieXT";
+  font-weight: normal;
+
+}
+
+h2{
+  font-size: 2em;
+  font-family : 'Times';
+  font-weight : bold;
+  text-align : center;
+}
+
+/* Section */
+
+  section {
+  padding: 1% 2%;
+  margin: auto;
+  width: 70%;
+  background-color: white;
+  }
+  p{
+    font-size: 1em;
+    font-family : 'Times';
+    text-align : center;
+   }
+
+/* pictures */
+img {
+   width: 90%;
+ }
+ #orthophoniste {
+   width: 80%;
+}
+
+}
